@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">智能门锁</string>
+    <string name="device_states">设备状态</string>
+    <string name="smart_control">实时监控与智能控制</string>
+    <string name="monitor">陌生人信息</string>
+    <string name="setting">设置</string>
+    <string name="ip">IP地址</string>
+    <string name="port">端口号</string>
+
+    <string name="border_top">Border Top</string>
+    <string name="border_bottom">Border Bottom</string>
+    <string name="image_url">Image Url</string>
+    <string name="voicebtndescription">voice\'s btn</string>
+    <string name="ip_example">0.0.0.0</string>
+
+</resources>
